@@ -11,7 +11,7 @@ Google Maps API 要錢，每個月有 200 美金的免費額度。
 ## 一、 至Google Cloud Platform 申請 googlemap api 金鑰
 [API Key](https://cloud.google.com/console/google/maps-apis/overview?hl=zh-tw)
 ## 二、 下載檔案後開啟index.html  找到金鑰填入位置  填入你自己的金鑰
-
+![image](https://github.com/bearlong/googlemapAPI/blob/main/1.jpg)
 ## 三、 map.geojson按照格式填入想標記之地點
 
 ****
